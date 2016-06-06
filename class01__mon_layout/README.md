@@ -20,6 +20,7 @@ Mob Coding:
 - Media queries
   - Conditionally modify layout based on app's needs, i.e., correctly use media queries to reflow the DOM on mobile and desktop displays
   - Logical operators to facilitate @media queries
+  - --> Add background image and nav bar that show up only for "desktop" widths.
 - Build from mobile first to control scaling
 
 ### SMACSS
