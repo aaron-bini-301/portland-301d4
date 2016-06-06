@@ -1,6 +1,9 @@
 # Portfolio Lab Assignment: Mobile-first and Responsive Design
 
-# Your professional online presence
+---
+# Description
+
+## Your professional online presence
 During the first three weeks of this course, you'll create from scratch a static "portfolio" web application that highlights your projects and interests and showcases your web development skills to potential employers or clients.
 
 Steps to get started:
@@ -30,3 +33,20 @@ Minimum requirements for your portfolio:
  - Be sure to use proper `viewport` settings.
  - Use mobile-first design principles when adding CSS.
  - Add new styles in any media queries as needed to make the page look good on desktop screens.
+
+---
+# Submit
+Please follow all steps carefully to ensure that this assignment is completed properly.
+
+Read the assignment instructions for class 01 in the course repo.
+Create a class repo on GitHub named "portfolio", with a README.md file.
+Clone the repo to your local dev environment.
+Create a branch called "class-01".
+Complete the work on the assignment – making as many commits as required
+Push your changes to your class-01 branch on GitHub - `git push -u origin class-01` ( you can leave off the `-u` after your first push)
+Create a pull-request from your class-01 branch to your master branch.
+In your pull-request comment, write details on:
+How long the assignment took.
+A reflection on the assignment. For example, what was most challenging or interesting component, or describe your process.
+Submit a link to the URL of your GitHub Pull Request.
+Any submissions that are not a PR link will be returned to you with no credit.
