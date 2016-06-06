@@ -1,6 +1,7 @@
-# Class 01 (Week 1, Mon): Layout/Style: RWD, Mobile 1st, SMACSS
+# Class 01 (Week 1, Mon): RWD, Mobile 1st, SMACSS
 Let's develop some coding skills for mobile/responsive design!
 
+---
 ## Key Objectives
 
 ### RWD/Mobile
@@ -30,6 +31,7 @@ Coding:
 Coding:
 - Create modular CSS components by styling the wrapper(s) for blog articles
 
+---
 ## Notes
 
 ### SMACSS
@@ -41,6 +43,7 @@ A way to organize your CSS files into meaningful categories.
 - *State*: Which page is a module on? In/visible? In/active?
 - *Theme*: Color/font &quot;skins&quot;
 
+---
 ## Today's Labs
 
 ### Pair Lab: Blog Web App
