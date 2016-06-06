@@ -14,11 +14,11 @@ Answer these questions:
 - What are some of the challenges of incorporating embedded media in RWD?
 - What is the formula (equation) at the heart of flexible layout systems?
 
-Coding:
+Mob Coding:
 - Understand <meta> viewport settings
-  - *visual* vs. *layout* viewports, width, height
-- Correctly use media queries to reflow the DOM on mobile and desktop displays
-- Media queries: Conditionally modify layout based on app's needs.
+  - *Visual* vs. *layout* viewports, units for width, height
+- Media queries
+  - Conditionally modify layout based on app's needs, i.e., correctly use media queries to reflow the DOM on mobile and desktop displays
   - Logical operators to facilitate @media queries
 - Build from mobile first to control scaling
 
@@ -28,7 +28,7 @@ Coding:
 - Become familiar with using resets as base stylesheets.
 - Understand foundational CSS display types and positioning properties.
 
-Coding:
+Mob Coding:
 - Create modular CSS components by styling the wrapper(s) for blog articles
 
 ---
