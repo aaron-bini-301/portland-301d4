@@ -1,7 +1,7 @@
 # Portfolio Lab Assignment: Mobile-first and Responsive Design
 
 ---
-# Description
+# Requirements
 
 ## Your professional online presence
 During the first three weeks of this course, you'll create from scratch a static "portfolio" web application that highlights your projects and interests and showcases your web development skills to potential employers or clients.
