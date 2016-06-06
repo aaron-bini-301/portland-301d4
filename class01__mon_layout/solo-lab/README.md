@@ -19,6 +19,7 @@ Steps to get started:
 
 ## User Stories: Minimum Viable Product (MVP)
 Minimum requirements for your portfolio:
+
 1. As a developer, I need my site to use valid and semantic markup, so that employers will love me.
 1. As the creator, I need the page to link to my social and GitHub pages, so that visitors can follow me, and I can build my audience.
 1. As a developer, I need portfolio items displayed with a repeatable template, so that I can reuse it, and abstract out the details for individual projects.
