@@ -3,13 +3,22 @@ jQuery is a powerful JavaScript library that gives developers a new way of inter
 
 ---
 ## Review
+### Previous Topics
 - How Agile generates good results.
 - What is MVC? What is its structure? Why is it helpful?
-- What is a js ‘library’?
+
+### Code
+
+Objectives during review:
+- What is RWD?
+- What are its benefits? Challenges?
+
+- Blog (pair review, 10 mins)
+- Portfolio (pair review, 10 mins)
 
 ---
-## Key Objectives
-
+## Objectives
+- What is a js ‘library’?
 - How does a browser load HTML files and handle &lt;script&gt; content?
 - Fact: "Under the hood", jQuery uses standard JS functions.
 - How to link and integrate the jQuery lib with your HTML, JS, CSS.
