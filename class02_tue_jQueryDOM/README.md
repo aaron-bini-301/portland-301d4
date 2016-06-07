@@ -8,11 +8,11 @@ jQuery is a powerful JavaScript library that gives developers a new way of inter
 - What is MVC? What is its structure? Why is it helpful?
 
 ### Code
-
-Objectives during review:
+Objectives during review
 - What is RWD?
 - What are its benefits? Challenges?
 
+Review both labs
 - Blog (pair review, 10 mins)
 - Portfolio (pair review, 10 mins)
 
@@ -41,8 +41,10 @@ Objectives during review:
 
 ---
 ## Helpful Resources
-Watch these videos on Agile Software Development:
+jQuery
+- Cheat sheet: http://oscarotero.com/jquery
+- "Basics" course: https://teamtreehouse.com/library/jquery-basics
+
+Agile Software Development
 - https://www.youtube.com/watch?v=OJflDE6OaSc  
 - https://www.youtube.com/watch?v=XU0llRltyFM
-- jQuery Cheat sheet: http://oscarotero.com/jquery
-- jQuery "Basics" course: https://teamtreehouse.com/library/jquery-basics
