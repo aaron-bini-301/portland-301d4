@@ -25,7 +25,7 @@ Review both labs
 - Understand when jQuery is useful, and how to source it (local vs CDN).
 - Understand how to modify the DOM with jQuery
   - What is jQuery's $(document).ready() function and when does this callback function execute?
-  - Use selectors in jQuerys, understand which elements jQuery will actually select.
+  - Use selectors in jQuery, understand which elements jQuery will actually select.
   - How to use $(‘selector’).method(args) (ref.: jQuery cheatsheet)
   - Comprehend traversal of the DOM tree w/ parents, children, find
   - How .clone can be used to work as a simple templating system, gearing up for handlebars.
