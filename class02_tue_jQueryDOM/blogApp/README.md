@@ -23,8 +23,8 @@ Here is a recommended workflow:
 1. Driver: When the assignment is done, submit a PR to the Nav's repo.
 
 ## Submit
-In Canvas, please submit the following items:
-1. The URL for your team's final PR
-1. Write a good descriptive summary of your changes:
-  - Be sure to include how much time you spent on it, and who you worked with.
+- In Canvas, please submit the URL for your team's final PR.
+- In a comment in your **PR**, please write:
+  - How much time you spent on this lab, and who you worked with.
+  - A concise summary of your changes.
   - Briefly reflect on and summarize your process.
