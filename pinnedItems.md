@@ -1,4 +1,5 @@
 # Changes
+Changes discussed in Class 03.
 
 ## Portfolio app (solo lab)
 - Portfolio labs for the entire week will now be due at 9 am on Monday of the **following week**, but it's highly recommended that you finish by 11:59 pm on Sat; this is to encourage you to set aside time on Sunday to read/sandbox to prep for Monday's class.
@@ -17,5 +18,6 @@
 - "Mini-lecture" Intro/motivation for new code feature(s),
 - Mob code one sandbox app for the night's reading.
 
-URLs
+---
+# URLs
 - jQuery cheat sheet: https://oscarotero.com/jquery
