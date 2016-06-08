@@ -35,7 +35,7 @@
 Build an app with the following features:
 - HTML: Button, 3 &lt;li&gt; elements.
 - 'click' event handler that creates a new &lt;li&gt;
-- Wrap &lt;li&gt;'s in a &lt;div&gt; and move the 'click' handler to be only on the &lt;div&gt;
+- Wrap &lt;li&gt;'s in a parent element, and move the 'click' handler to be only on the &lt;div&gt;
 - Use delegation to find which &lt;li&gt; was clicked.
 - Add an &lt;h2&gt; to the HTML and echo contents of the clicked &lt;li&gt; to that &lt;h2&gt;.
 
