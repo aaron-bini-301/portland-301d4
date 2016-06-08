@@ -55,6 +55,23 @@ else { // New way: chained functions!
   cho.dump().bake().dump().eat().dump(); // More compact but yields same result
 }
 
+/*
+Chaining w/o using objects (pseudo-code):
+
+dump(eat(dump(bake(dump(cho)))));
+
+function dump(c) {
+  console.log('flavor = ' + c.flavor);
+  ... etc. ...
+  return c;
+}
+
+function bake(c) {
+  ... etc. ...
+  return c
+}
+*/
+
 var blu = new cupcake('blueberry');
 blu.dump();
 
