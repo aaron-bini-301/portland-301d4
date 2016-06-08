@@ -1,5 +1,14 @@
 # Class 02: jQuery &amp; Events
 
+# Review
+
+## Sandbox Code
+- 10 mins whole class
+- 10 mins paired reviews
+
+## 
+- 
+
 Yay, events with jQuery!
 
 # Objectives
@@ -22,7 +31,18 @@ Yay, events with jQuery!
 - Chrome Dev Tools can help debug css/js
 - Site design includes complimentary good color choices
 
+# Slides
+
+# Mob Coding
+Build an app with the following features:
+- HTML: Button, 3 &lt;li&gt; elements.
+- 'click' event handler that creates a new &lt;li&gt;
+- Wrap &lt;li&gt;'s in a &lt;div&gt; and move the 'click' handler to be only on the &lt;div&gt;
+- Use delegation to find which &lt;li&gt; was clicked.
+- Echo the contents of that &lt;li&gt; to the web page.
+
 # Know these before lab
+You should know these from the reading/sanboxing and/or mob coding:
 - How to use .on() directly on specifc DOM elements
 - How to use .on() using **event delegation**
 
