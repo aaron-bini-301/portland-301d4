@@ -1,13 +1,10 @@
 # Class 02: jQuery &amp; Events
 
-# Review
-
-## Sandbox Code
-- 10 mins whole class
-- 10 mins paired reviews
-
-## 
-- 
+# Code Review
+- Sandbox: 10 mins whole class
+- Sanbox: 10 mins paired reviews
+- Blog App: 15 mins
+- Port App: 10 mins
 
 Yay, events with jQuery!
 
