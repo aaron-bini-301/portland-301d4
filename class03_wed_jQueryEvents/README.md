@@ -1,14 +1,16 @@
 # Class 02: jQuery &amp; Events
 
-# Code Review
-- Sandbox: 10 mins whole class
-- Sanbox: 10 mins paired reviews
+## Workload discussion
+
+## Code Review
+- Sandbox: 5 mins whole class
+- Sandbox: 10 mins paired reviews
 - Blog App: 15 mins
 - Port App: 10 mins
 
-Yay, events with jQuery!
+# Yay, events with jQuery!
 
-# Objectives
+## Objectives
 - Execute event bindings with jQuery ‘on’
 - Comprehend when delegation is appropriate; able to configure event bindings using it
 - Build dynamic jQuery selector strings
@@ -16,7 +18,7 @@ Yay, events with jQuery!
 - Familiar with [data-* attributes](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes) in HTML
 - Integrate icon fonts
 
-# Key Concepts
+## Key Concepts
 - Connect the concept of events with the DOM
 - Understand common browser events
 - With jQuery, event listeners should be registered with `.on()`
@@ -28,9 +30,9 @@ Yay, events with jQuery!
 - Chrome Dev Tools can help debug css/js
 - Site design includes complimentary good color choices
 
-# Slides
+## Slides
 
-# Mob Coding
+## Mob Coding
 Build an app with the following features:
 - HTML: Button, 3 &lt;li&gt; elements.
 - 'click' event handler that creates a new &lt;li&gt;
@@ -38,7 +40,7 @@ Build an app with the following features:
 - Use delegation to find which &lt;li&gt; was clicked.
 - Echo the contents of that &lt;li&gt; to the web page.
 
-# Know these before lab
+## Know these before lab
 You should know these from the reading/sanboxing and/or mob coding:
 - How to use .on() directly on specifc DOM elements
 - How to use .on() using **event delegation**
