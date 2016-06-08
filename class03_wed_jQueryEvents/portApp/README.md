@@ -26,8 +26,9 @@ Adapt these stories as necessary to fit how you want to build your portfolio.
 - When classes and IDs are needed, pick semantic names. There is to be no `$('#content .content')` nonsense!
 - Add color and icons where appropriate.
 
-## Canvas
-1. Submit the git commit hash for the changes you made during today's lab.
-1. Write a descriptive summary of your changes.
+## Submit
+1. Submit the URL for your final PR.
+- Write a descriptive summary of your changes:
    - How long did this lab take you to complete?
+   - What did you learn that you found most useful/enjoyable?
    - Reflect on the what you accomplished and briefly summarize your process, including what you found most challenging and what you learned.
