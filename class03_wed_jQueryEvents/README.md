@@ -3,8 +3,7 @@
 ## Workload discussion
 
 ## Code Review
-- Sandbox: 5 mins whole class
-- Sandbox: 10 mins paired reviews
+- Sandbox: 15 mins whole class
 - Blog App: 15 mins
 - Port App: 10 mins
 
@@ -38,7 +37,7 @@ Build an app with the following features:
 - 'click' event handler that creates a new &lt;li&gt;
 - Wrap &lt;li&gt;'s in a &lt;div&gt; and move the 'click' handler to be only on the &lt;div&gt;
 - Use delegation to find which &lt;li&gt; was clicked.
-- Echo the contents of that &lt;li&gt; to the web page.
+- Add an &lt;h2&gt; to the HTML and echo contents of the clicked &lt;li&gt; to that &lt;h2&gt;.
 
 ## Know these before lab
 You should know these from the reading/sanboxing and/or mob coding:
