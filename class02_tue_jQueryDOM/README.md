@@ -8,11 +8,11 @@ jQuery is a powerful JavaScript library that gives developers a new way of inter
 - What is MVC? What is its structure? Why is it helpful?
 
 ### Code
-
-Objectives during review:
+Objectives during review
 - What is RWD?
 - What are its benefits? Challenges?
 
+Review both labs
 - Blog (pair review, 10 mins)
 - Portfolio (pair review, 10 mins)
 
@@ -25,7 +25,7 @@ Objectives during review:
 - Understand when jQuery is useful, and how to source it (local vs CDN).
 - Understand how to modify the DOM with jQuery
   - What is jQuery's $(document).ready() function and when does this callback function execute?
-  - Use selectors in jQuerys, understand which elements jQuery will actually select.
+  - Use selectors in jQuery, understand which elements jQuery will actually select.
   - How to use $(‘selector’).method(args) (ref.: jQuery cheatsheet)
   - Comprehend traversal of the DOM tree w/ parents, children, find
   - How .clone can be used to work as a simple templating system, gearing up for handlebars.
@@ -41,8 +41,10 @@ Objectives during review:
 
 ---
 ## Helpful Resources
-Watch these videos on Agile Software Development:
+jQuery
+- Cheat sheet: http://oscarotero.com/jquery
+- "Basics" course: https://teamtreehouse.com/library/jquery-basics
+
+Agile Software Development
 - https://www.youtube.com/watch?v=OJflDE6OaSc  
 - https://www.youtube.com/watch?v=XU0llRltyFM
-- jQuery Cheat sheet: http://oscarotero.com/jquery
-- jQuery "Basics" course: https://teamtreehouse.com/library/jquery-basics
