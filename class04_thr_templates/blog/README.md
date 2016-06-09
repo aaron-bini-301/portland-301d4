@@ -16,8 +16,9 @@ Find and work on `TODO` items in the starter code. Switch roles each time you co
 1. Convert your existing template HTML code into a Handlebars style template.
 1. Update your `Article` object's `.toHTML()` method to use Handlebars.
 1. You may find it useful to attach additional properties to `Article` objects before you use the template.
+1. Apply at least one web font to your app, such as a Google font.
 
-# TODOs: Stretch Goals
+# TODOs: Stretch Goal (+1 extra credit)
 1. The code in lines 5 thru 16 of articleView.js seem clumsy, now that you know how to use templates. Make a template in index.html that you can use to populate your &lt;option&gt; elements that are used to filter on author and categories.
 
 ## Submit
