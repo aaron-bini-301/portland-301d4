@@ -29,6 +29,12 @@ As a class, share a few things you learned during code review:
 ---
 ## Slides on Typography
 
+## Mob code demo of `em` vs. `rem`, using chart.js to plot sizes
+- In HTML: five levels of nested divs, each div containing text content.
+- In HTML: another set of five levels of nested divs, each div containing text content.
+- In CSS: set font size of one set of divs using `em` units.
+- In CSS: set font size of the other set of divs using `rem` units.
+
 ---
 ## Review Lab Assignments
 - Pair lab
