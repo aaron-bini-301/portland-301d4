@@ -1,4 +1,4 @@
-# Class 02: jQuery &amp; Events
+# Class 03: jQuery &amp; Events
 
 ## Workload discussion
 
@@ -40,7 +40,7 @@ Build an app with the following features:
 - Add an &lt;h2&gt; to the HTML and echo contents of the clicked &lt;li&gt; to that &lt;h2&gt;.
 
 ## Know these before lab
-You should know these from the reading/sanboxing and/or mob coding:
+You should know these from the reading/sandboxing and/or mob coding:
 - How to use .on() directly on specifc DOM elements
 - How to use .on() using **event delegation**
 
