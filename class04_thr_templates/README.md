@@ -29,11 +29,20 @@ As a class, share a few things you learned during code review:
 ---
 ## Slides on Typography
 
-## Mob code demo of `em` vs. `rem`, using chart.js to plot sizes
-- In HTML: five levels of nested divs, each div containing text content.
-- In HTML: another set of five levels of nested divs, each div containing text content.
-- In CSS: set font size of one set of divs using `em` units.
-- In CSS: set font size of the other set of divs using `rem` units.
+## Mob code
+Show `em` vs. `rem` using chart.js
+
+- HTML
+  - &lt;canvas&gt; (*DONE*)
+  - Five levels of nested &lt;div&gt;s, each div w/ text content. Call this "Set A".
+  - Another set of five nested &lt;div&gt;s, each div w/ text content. Call this "Set B"
+- CSS
+  - Set font size of Set A using `em`  units.
+  - Set font size of Set B using `rem` units.
+- JS
+  - Initialize chart.js and "skeleton" data objects for chart.js (*DONE*).
+  - Get pixel widths of each div in Set A, fill in skeleton object and plot widths (*skipped*).
+  - Get pixel widths of each div in Set B, fill in skeleton object and plot widths (*skipped*). 
 
 ---
 ## Review Lab Assignments
@@ -47,4 +56,3 @@ As a class, share a few things you learned during code review:
  - [Practical Typography Site](http://practicaltypography.com)
  - [A More Modern Scale for Web Typography via typecast.com](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
  - [Type Scale Tool via type-scale.com](http://type-scale.com)
-
