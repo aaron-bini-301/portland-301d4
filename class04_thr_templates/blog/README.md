@@ -1,5 +1,5 @@
-# Templates
-Update your blog app to use Handlebars templates.
+# Lab 02 Pair Coding: Templates &amp; Typography
+Update your blog app to use Handlebars templates and a nice font(s).
 
 ## Pair Coding Set-up
 For pair coding, work in one repo. Decide whose repo to use for this lab, then make sure the other person is added as a collaborator. Regardless of who's driving, the driver should work with her/his own **clone** of that repo, then push to the repo before switching roles. The new driver should "git pull" to get the latest changes into his/her laptop's workspace.
