@@ -41,7 +41,7 @@ As a class, share what you learned during code review.
 - marked.js, highlight.js (today)
 
 ---
-## Afternoon Mini-Lecture (4 pm)
+## Afternoon Mini-Lecture (3 - 4 pm)
 
 ### Preview Assignments
 - Class 06 prep work
