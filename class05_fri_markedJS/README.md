@@ -6,6 +6,8 @@
 - 401 mid-course project presentations (~1 pm)
 - Class 06 prep-work
 
+---
+## Overview
 Let's build a "new article form" for the blog app to let authors create new blog articles.
 
 For your portfolio app, you'll pair up to review each other's code and make improvements.
@@ -14,17 +16,16 @@ For your portfolio app, you'll pair up to review each other's code and make impr
 ## Pair Reviews
 
 ### Blog App
-Pair review, 20 mins. Objectives are to understand the following:
-- How to use handlebars.js
-  - Template format
-  - Data format
-  - What are .compile()'s I/O data types? How do you use it?
+Pair review, 20 mins. Objectives are to understand how to use handlebars.js:
+- Template format
+- Data format
+- What are .compile()'s I/O data types? How do you use it?
 
 ### Prep-work for markdown.js, highlight.js
 Pair review, 20 mins. Objectives are to understand the following:
 - What steps required, at a high level, to convert Markdown to HTML and render the result?
-- What is "hljs.initHighlightingOnLoad();" used for?
-- What does "hljs.highlightBlock(block)" do? What data type is the input? The output?
+- What is `hljs.initHighlightingOnLoad();` used for?
+- What does `hljs.highlightBlock(block)` do? What data type is the input? The output?
 
 ### Discuss
 As a class, share what you learned during code review.
@@ -48,7 +49,8 @@ As a class, share what you learned during code review.
 - Solo lab
 
 ### Slides - Preview Class 06 topics
-- WRRC, AJAX/JSON
+- WRRC
+- AJAX/JSON
 
 ---
 ## Resources
