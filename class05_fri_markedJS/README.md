@@ -1,10 +1,10 @@
 # Class 05 (Week 1, Fri): marked.js, highlight.js
 
 ## Announcements
-- Quiz
 - Max's last day :-(
 - 401 mid-course project presentations (~1 pm)
-- Class 06 prep-work
+- Class 06 prep-work posted
+- Online quiz
 
 ---
 ## Overview
