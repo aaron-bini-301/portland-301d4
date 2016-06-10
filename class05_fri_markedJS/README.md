@@ -1,10 +1,17 @@
- # Class 05 (Week 1, Fri): marked.js, highlight.js
+# Class 05 (Week 1, Fri): marked.js, highlight.js
+
+## Announcements
+- Quiz
+- Max's last day :-(
+- 401 mid-course project presentations (~1 pm)
+- Class 06 prep-work
 
 Let's build a "new article form" for the blog app to let authors create new blog articles.
 
 For your portfolio app, you'll pair up to review each other's code and make improvements.
 
-## Review
+---
+## Pair Reviews
 
 ### Blog App
 Pair review, 20 mins. Objectives are to understand the following:
@@ -23,15 +30,14 @@ Pair review, 20 mins. Objectives are to understand the following:
 As a class, share what you learned during code review.
 
 ---
-## Lecture
-- Review:
-  - RWD (Mon)
-  - jQuery to select DOM elements (Tue)
-  - jQuery to change, create, delete DOM elements (Tue)
-  - jQuery to handle events (Wed)
-  - Templates (Thr)
-  - JSON (from 201, used today)
-  - marked.js, highlight.js (today)
+## Lecture - Week 1 Review
+- RWD (Mon)
+- jQuery to select DOM elements (Tue)
+- jQuery to change, create, delete DOM elements (Tue)
+- jQuery to handle events (Wed)
+- Templates (Thr)
+- JSON (from 201, used today)
+- marked.js, highlight.js (today)
 
 ---
 ## Afternoon Mini-Lecture (4 pm)
@@ -41,7 +47,7 @@ As a class, share what you learned during code review.
 - Pair lab
 - Solo lab
 
-### Slides
+### Slides - Preview Class 06 topics
 - WRRC, AJAX/JSON
 
 ---
