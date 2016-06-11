@@ -45,15 +45,15 @@ var myArts = [
     body: "<p>These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area. We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.</p><p>Resistance is futile.</p>"
   },
   { author: 'Horace Pucky Galore',
-    category: 'Awesome',
+    category: 'AwesomeNot',
     body: '<p>Source your ecosystem solutions</p>'
   },
   { author: 'Art D. Zai-Ner',
-    category: 'Awesome',
+    category: 'AwesomeNot',
     body: '<p>In graphic design, the jumbled Latin phrase “lorem ipsum” is used as a placeholder in advance of finished text. Designers employ this language in order to focus attention on the structural elements of a layout, such as typography, without being distracted by readable content. Much like its graphic usage, Lorem Ipsum will be a work in progress designed to expose the conceptual and logistical mechanisms of an exhibition.</p>'
   },
-  { author: 'Foe-knee Biztype',
-    category: 'Awesome',
+  { author: 'Foe-knee Yoozed-Kar-Sails',
+    category: 'AwesomeNot',
     body: '<p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p><p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.</p>'
   }
 ];

@@ -4,7 +4,7 @@
 //========================
 function useNext(next) {
   console.log('I\'m happy to be here. Now I\'ll do the "next" thing, haha.');
-    
+
   var likes = ['pizza', 'old coins', 'music'];
   likes.forEach(function(el) { next(el)});
   console.log('');
@@ -22,8 +22,10 @@ useNext(goo);
 // Closure making function
 //=========================
 function makeOpinionFunction(opinion) {
+
+  var x = 100;
   var f = function(topic) {
-    console.log('I think ' + topic + ' are ' + opinion); // remembers opinion
+    console.log('I think ' + topic + ' are ' + x + 'times as ' + opinion); // remembers opinion
   }
   return f;
 }
@@ -38,6 +40,7 @@ var allIsSad = makeOpinionFunction('sad.');
 console.log('');
 allIsSad('frowning clowns');
 allIsSad('cardboard jackets');
+allIsSad('haters');
 
 //=================================
 // Another closure making function
