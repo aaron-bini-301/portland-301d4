@@ -2,6 +2,7 @@
 
 ## User Stories: Minimum Viable Product (MVP)
 Let these user stories guide your development:
+
 1. As a developer, I want portfolio items to be displayed with a repeatable template, so that I can reuse it, and abstract out the details for individual projects.
 1. As a visitor, I want the portfolio to show the newest projects on top so that I can easily see the developers recent work.
 1. As a visitor, I want relative timestamps on projects to give me a idea of how many days ago something was created.
@@ -18,6 +19,7 @@ Let these user stories guide your development:
 ---
 ## Submit
 In Canvas, please submit the following items:
+
 1. The URL for your final PR.
 1. Write a good descriptive summary of your changes:
   - Be sure to include how much time you spent on it, and who you worked with.
