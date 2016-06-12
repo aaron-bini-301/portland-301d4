@@ -51,13 +51,22 @@ As a class, share something you learned during code review.
 
 ---
 ## Afternoon Mini-Lecture (3 - 4 pm)
-- Slides on Functional Programming
-- Demo: how to sandbox JS's .every() and jQuery's .add()
-- Mob code
-  - .not()
-  - Freebie! Code one JS method from #1 thru #7 in [https://canvas.instructure.com/courses/1029497/discussion_topics/4652878](https://canvas.instructure.com/courses/1029497/discussion_topics/4652878)
-
 ### Preview Assignments
 - Class 07 prep work
 - Pair lab
 - Solo lab
+
+### Lecture
+- Slides on Functional Programming
+- Demo: how to sandbox JS's .every() and jQuery's .add()
+
+### Mob coding
+- .not()
+- Freebie! Code one JS method from #1 thru #7 in [https://canvas.instructure.com/courses/1029497/discussion_topics/4652878](https://canvas.instructure.com/courses/1029497/discussion_topics/4652878)
+
+### Advanced/optional
+- HOF mob coding
+  - Main code: pass anonymous function to a HOF, capture HOF's return value.
+  - In HOF, return anon fn.
+  - Main code: Call the returned fn.
+- .bind() demo code analysis
