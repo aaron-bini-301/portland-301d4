@@ -42,7 +42,7 @@ As a class, share something you learned during code review.
   - bash aliases (incl. file safety)
   - Chrome Dev Tools?
   - Sandboxing: Each student to share how she/he sets up for a new app
-- Install sandbox script
+- Group: install sandbox script
 - Laundry & luggage analogy
 
 ## Mob Activites
@@ -61,13 +61,3 @@ As a class, share something you learned during code review.
 - Class 07 prep work
 - Pair lab
 - Solo lab
-
-### Slides - Preview Class 06 topics
-- WRRC
-- AJAX/JSON
-
----
-## Resources
-- Markdown -> HTML conversion: https://github.com/chjj/marked
-- (Code) syntax highlighting: https://highlightjs.org/usage/<br>
-  and https://github.com/isagalaev/highlight.js
