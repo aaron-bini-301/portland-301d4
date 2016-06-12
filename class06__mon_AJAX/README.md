@@ -14,7 +14,7 @@
 
 ---
 ## Overview
-Asynchronous connections and standardized data formats? This all sounds like a serious upgrade to our application logic! Let's see what you can do with the app, by applying these concepts.
+Asynchronous connections and standardized data formats? This all sounds like a serious upgrade to our application logic! Let's see what you can do with the app by applying these concepts.
 
 ---
 ## Pair Reviews
