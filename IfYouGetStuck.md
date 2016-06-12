@@ -2,6 +2,7 @@
 
 Try to solve your problem using method #1 below. If that fails, try method #2, etc.
 Spend up to 15 minutes total on methods #1 thru #5. Methods:
+
 1. "Toaster" checks:
    - What git branch are you on?
    - What file is your editor *actually* editing?
