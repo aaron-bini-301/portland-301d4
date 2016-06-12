@@ -1,4 +1,4 @@
-# Functional Programming
+# Lab 07: Blog App w/ Functional Programming
 
 The concepts of functional programming ("FP") have significantly shaped Computer Science from the early days. Apply some FP concepts to your MVC Blog app.
 
