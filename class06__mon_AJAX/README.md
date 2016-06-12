@@ -9,7 +9,7 @@
 - How was pre-work for today?
 
 ### Announcements
-- [If you get stuck](IfYouGetStuck.md)
+- [If you get stuck](../IfYouGetStuck.md)
 - Closed-book, in-class written quiz Tue and Fri this week.
 
 ---
