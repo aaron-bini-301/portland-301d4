@@ -50,7 +50,7 @@ As a class, share something you learned during code review.
 - Analyze two AJAX demo apps
 
 ---
-## Afternoon Mini-Lecture (3 - 4 pm)
+## Afternoon Mini-Lecture (4 - 5 pm)
 ### Preview Assignments
 - Class 07 prep work
 - Pair lab
