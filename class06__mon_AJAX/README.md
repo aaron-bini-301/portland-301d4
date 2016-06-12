@@ -37,9 +37,11 @@ As a class, share something you learned during code review.
 - JSON slides
 - Poll
   - eslint
+  - live-server
   - Command line editing
   - bash aliases (incl. file safety)
-  - Sanboxing: Each student to share how she/he sets up for a new app
+  - Chrome Dev Tools?
+  - Sandboxing: Each student to share how she/he sets up for a new app
 - Install sandbox script
 - Laundry & luggage analogy
 
