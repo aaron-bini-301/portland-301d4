@@ -34,7 +34,7 @@ As a class, share something you learned during code review.
 
 ---
 ## Lecture
-- JSON slides
+- WRRC, HTTP, JSON slides
 - Poll
   - eslint
   - live-server
