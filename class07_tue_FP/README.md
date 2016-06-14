@@ -42,7 +42,7 @@ As a class, share something you learned during code review.
   - Extract one value from each object
   - Filter on values
   - Find average value
-  - Change array to hold heterogenous objects, but each object has a common key name; repeat above steps
+- Change array to hold heterogenous objects, but each object has a common key name; repeat above steps
 
 ---
 ## Afternoon Mini-Lecture (4 - 5 pm)
