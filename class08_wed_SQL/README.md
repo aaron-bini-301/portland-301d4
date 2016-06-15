@@ -60,7 +60,7 @@ Time permitting:
 ### SQL joins/relations preview
 
 ### Mob Sandbox
-- Freebie! Code one item in class 09 prepwork
+- Freebie! Code one item in Class 09 Prepwork/Lab
 
 ## Resources
 - [SQLBolt](http://sqlbolt.com/) -- Interactive SQL Tutorial
