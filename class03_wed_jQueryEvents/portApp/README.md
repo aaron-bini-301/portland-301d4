@@ -1,4 +1,4 @@
-# Lab 02 Portfolio &amp; jQuery Events
+# Lab 03 Portfolio &amp; jQuery Events
 Create a new branch for this lab and use that branch until this lab is done, thenuse a PR to merge the new branch back into your master branch.
 
 Continue building and improving your portfolio site. Here's how you can use jQuery event handling:

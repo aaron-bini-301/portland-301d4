@@ -1,4 +1,4 @@
-# Lab 02 Pair Coding: Templates &amp; Typography
+# Lab 04 Pair Coding: Templates &amp; Typography
 Update your blog app to use Handlebars templates and a nice font(s).
 
 ## Pair Coding Set-up

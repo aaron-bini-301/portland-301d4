@@ -1,4 +1,4 @@
-# Lab 02 Pair Coding: jQuery &amp; Events
+# Lab 03 Pair Coding: jQuery &amp; Events
 
 Today we'll add a very common feature, single-page tabs, to our blog app.
 
