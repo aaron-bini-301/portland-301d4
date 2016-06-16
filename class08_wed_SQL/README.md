@@ -11,12 +11,12 @@ Databases power web applications everywhere by enabling apps to persist, modify,
 
 ### Announcements
 - Tonight 6 pm: Code Fellows Info Session
-- Thr: Talk
+- Thr 12:15 - 1 pm: Talk on UI Testing in main classroom
 - This Fri 9-9:30am(-ish): Career development/resume talk; then lecture in front classroom
-- bash aliases for "file safety"
+- Bash aliases for "file safety"
 
 ---
-## Pair Reviews
+## Pair Review
 
 ### Blog App Code
 Pair review, 15 min
@@ -26,7 +26,7 @@ Objective: Learn how your partner used array methods, IIFEs, and possibly HOFs. 
 ### Prepwork for SQL
 Pair review, 15 min
 
-Objectives: Understand how your partner experimented with SQL. What did you learn so far by doing the prepwork?
+Objective: Understand how your partner experimented with SQL. What did you learn so far by doing the prepwork?
 
 ### Discuss, 8 min
 As a class, share something you learned during review.
@@ -35,7 +35,7 @@ As a class, share something you learned during review.
 ## Lecture
 - SQL slides (C.R.U.D.)
 
-## Mob Coding
+## Mob Code
 - Create a table with two columns
 - Insert 4 records
 - Query the table to get 3 records
@@ -60,7 +60,7 @@ Time permitting:
 ### SQL joins/relations preview
 
 ### Mob Sandbox
-- Freebie! Code one item in class 09 prepwork
+- Freebie! Code one item in Class 09 Prepwork/Lab
 
 ## Resources
 - [SQLBolt](http://sqlbolt.com/) -- Interactive SQL Tutorial
