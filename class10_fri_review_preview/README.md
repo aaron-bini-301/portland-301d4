@@ -3,8 +3,8 @@
 ## Discussion
 
 ### Class Pulse
-- In-class pair reviews duration?
-- How was lab yesterday?
+- How was lab yesterday? Today?
+- Catching up?
 
 ### Announcements
 
@@ -20,7 +20,7 @@
   - Wed: Heroku
   - Thr: States
   - Fri: Lecture kick-off
-- Heads up: The week is front-loaded. Prepwork could be time-consuming
+- Heads up: The week is front-loaded. Prepwork may be time-consuming, today's prep should help
 
 ## Mini-lecture 3 - 4 pm
 (Class 11 prep): Routing and Single Page Apps
