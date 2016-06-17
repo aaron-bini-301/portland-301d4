@@ -37,12 +37,12 @@ Client side routing
 ### Mob Code
 - Create a web app using your current knowledge
   - Two tabs (text boxes or &lt;li&gt;s)
-  - Two &lt;section&gt;s (say, "A" and "B") w/ content
+  - Two &lt;section&gt; elements (say, "A" and "B") w/ content
   - CSS to hide B
-  - Write a named click handler for each tab; each handler shows/hides a section
-  - HTML file with B's content
-- Go back in time; covert part of the app to be like a "Year 2000"-style static web site:
-  - Wrap each tab with &lt;a hrefli&gt;s, link to self A) and new HTML page (B)
+  - *Named* click handler for each tab; each handler shows/hides a section
+  - HTML file w/ B's content
+- Convert part of the app to be like a "Year 2000"-style static web site:
+  - Wrap each tab w/ &lt;a hrefli&gt;s w/ links to self (A) and new HTML page (B)
 - Back to 2016: "Trap" URLs to create a single-page app (SPA) with client-side routint:
   - Insert page.js
   - Map routes to click handlers
