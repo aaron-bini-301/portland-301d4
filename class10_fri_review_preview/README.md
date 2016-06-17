@@ -4,21 +4,21 @@
 
 ### Class Pulse
 - How was lab yesterday? Today?
-- Catching up?
+- Catch-up progress/status?
 
 ### Announcements
 
 #### Quizzes
-- Canvas quiz due tonite.
-- The previous written Quiz will be graded by early next week.
-- The next in-class Quiz will be next week.
+- Canvas quiz due tonite
+- Previous in-class Quiz to be graded by early next week
+- Next in-class Quiz will be next week.
 
 #### Week 3 Preview
 - Theme: Controllers (in MV**C**) to route. Client-side routes, proxies, external servers. REST APIs and FSM.
-  - Mon: Page.js
+  - Mon: URLs, Routing, Page.js
   - Tue: REST APIs
-  - Wed: Heroku
-  - Thr: States
+  - Wed: Using Heroku, add DOM-manipulating HOFs to port app
+  - Thr: Middleware &amp; States
   - Fri: Lecture kick-off
 - Heads up: The week is front-loaded. Prepwork may be time-consuming, today's prep should help
 
