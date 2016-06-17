@@ -38,8 +38,8 @@ In Canvas, **submit** these reminders (don't just cut-and-paste these items):
 - "[Refesh]ments for everyone. Manually refresh my browser after I edit the app's code."
 
 ### C. Refactor and Extend
-- Move the JS code inside index.html into its own file, such as "app.js".
-- Add the jQuery library and change the DOM element selectors in the JS code to use jQuery instead. Test again, then a-c-p.
+- If you're starting with the "basic" app, move the JS code inside index.html into its own JS file.
+- Add the jQuery library and change any DOM element selectors in JS to use jQuery instead. Test again, then a-c-p.
 - Add more DOM elements that have classes and/or IDs, then change the routing callbacks (index(), about(), ...) to manipulate the elements you added. Be sure to use jQuery selectors. Test/debug, then a-c-p.
 - Turn the clickable links into a nav bar. Make sure they stay as links (with &lt;href&gt; attributes); don't add any event handlers. Test/debug again, then a-c-p.
 -  Add an article "page" inside index.html. This is more advanced, but will position you well for Day 11 labs. Test/debug and a-c-p after each step:
