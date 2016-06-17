@@ -23,11 +23,11 @@
 - Heads up: The week is front-loaded. Prepwork may be time-consuming, today's prep should help
 
 ## Mini-lecture 3 - 4 pm
-(Class 11 prep): Routing and Single Page Apps
+Class 11 prep: Routing and Single Page Apps
 
 A central concept in web development is the Web Request-Response Cycle (WRRC). Pay close attention to how your app creates and responds to requests. With client-side routing and JavaScript's "History" API, we can add a layer of abstraction on top of traditional routing. Think, "Full control of &lt;a href&gt;s".
 
-## Lecture
+### Slides
 Client side routing
 
 ### Preview Assignments
