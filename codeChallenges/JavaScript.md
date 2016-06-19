@@ -46,12 +46,12 @@
   Example: If the input array is [1, 2, 3] and the input value is 2, your function should return true, but for the same input array if the input value is 99999 (or the string "I like ice cream"), the function should return false.
 ```javascript
   function isInArray(myArray, myValue) {
-  
+
     // Write logic here
 
     // return boolean result here
   }
-  
+
   console.log(isInArray([1, 2, 3], 2));       // Should print true
   console.log(isInArray([1, 2, 3], "frogs")); // Should print false
 ```
@@ -78,14 +78,14 @@
 - JS-8 (intermediate): Create a function that accepts five parameters and prints out all five parameters. Call that function using a single array that contains 5 elements, but "spread" that array into five arguments during the call. Hint: Look up .apply() and related array methods.
 - JS-9 (advanced): Same as JS-8, but create an object constructor function and do the same "spread" operation. This is easy to do in JS version 6, but a bit complex in JS 5.
 - JS-10 (advanced): Write a function that accepts one parameter N, and prints a sequence of numbers 1 thru N, inclusive, using recursion (no explicit loops or functional methods). Write JS code that calls your function. Example:
-
+```javascript
       function myCountPrinter() {
         // Write your logic here
       }
       myCountPrinter(1); // Prints 1<br>
       myCountPrinter(4); // Prints 1, 2, 3, 4<br>
       myCountPrinter(0); // (N/A -- This doesn't print anything)
-
+```
 - JS-11 (advanced): Write a function that has one parameter and returns an array that contains all primes (prime numbers) less than N.
 
 - JS-12 (advanced): Extend your code from JS-11 to compute the percentage of numbers below N that are prime.  E.g., When N = 13, the prime array is [2, 3, 5, 7, 11], which has 5 primes; the percentage is 5/12 = 41.67%.
