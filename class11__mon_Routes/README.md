@@ -46,13 +46,14 @@ REST / MVC
 - Lab 12 blog &amp; portfolio
 
 ### Mob Code
-Create a web app with the following features:
-- HTML: Button
-- Data: JSON file w/ array of two objects
-- JS: AJAX to load JSON file
-- JS: Create container
-- JS: Fill container with data, one &lt;ul&gt; per object
-- JS: 
+1. Create a web app with the following features:
+   - HTML: Button
+   - Data: JSON file w/ array of two objects
+   - JS: AJAX to load JSON file
+   - JS: Create container
+   - JS: Fill container with data. For each object, make one &lt;ul&gt; with child &lt;li&gt;s, one &lt;li&gt; per object property.
+   - JS: Add 'click' handler for button: make object, fill with random data, render as new &lt;ul&gt; with child &lt;li&gt;s.
+1. Refactor app into M, V, C components
 
 ### Resources for Day 12
 - "REST conversation": https://gist.github.com/brookr/5977550
