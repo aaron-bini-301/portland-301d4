@@ -4,6 +4,7 @@
 
 A central concept in web development is the Web Request-Response Cycle (WRRC). Pay close attention to how your app creates and responds to requests. With client-side routing (using page.js) and JavaScript's "History" API, we can add a layer of abstraction on top of traditional routing. Think, "Full control of &lt;a href&gt;s".
 
+---
 ## Discussion
 ### Class Pulse
 - How was the URL/Routes/page.js prepwork?
@@ -29,9 +30,11 @@ Surveys and Canvas submssion &amp; due date
   - Fri: Official project start
 - Week is front loaded.
 
-### Code Review
-WebSQL used in blog app starter code.
+---
+## WebSQL Code Review
+Look at Lab 11's blog starter code.
 
+---
 ## Mini-lecture 3 - 4 pm
 Class 12 prep: REST &amp; MVC
 
