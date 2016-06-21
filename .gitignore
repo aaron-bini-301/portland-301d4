@@ -3,6 +3,8 @@
 .AppleDouble
 .LSOverride
 
+**/githubToken.js
+
 ### Node ###
 npm-debug.log*
 
@@ -13,7 +15,7 @@ npm-debug.log*
 build/Release
 
 # Dependency directories
-node_modules
+**/node_modules
 jspm_packages
 
 # Optional npm cache directory
