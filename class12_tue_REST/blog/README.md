@@ -20,11 +20,12 @@ Now that we understand how web applications can handle different URLs, we can wr
    - Get creative with the data available to you via the GitHub API!
    - Want to create links to your gists?
    - Maybe highlight your GitHub followers, or whom you follow?
+1. As a Code Fellows student who enjoys working ahead, I want to use a proxied, authenticated ajax call to GitHub's API to get a list of my repository, so I will use node, `server.js`, and my GitHub token stored in an environment variable.
 
 ## Technical Requirements and Grading Rubric
 - Make sure your code passes ESLint.
 - Place all code within the proper layer of MVC abstraction and encapsulation.
-- Use a proxied, authenticated ajax call to GitHub's API to get your repos.
+- Use a URL that does not contain your GitHub username. Your AJAX request should use your GitHub token.
 - DO NOT publish your GitHub Token to any public repo.
 
 ## Pair Coding
