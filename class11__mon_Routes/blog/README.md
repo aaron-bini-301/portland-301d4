@@ -12,7 +12,7 @@ We are now building a true Single-Page App, such that clicking links within the 
 
 See a [working deployed version](https://cf-mvc-blog--class11.aerobatic.io/) of the app as a target reference.  Watch the URL change (as well as the page's visible content) as you click between Home and About, and note that no page reloads are triggered.
 
-As a pair, or as individuals, sandbox **or comment** at least two features that you don't/didn't understand in one or more of the following items: the ".zip file" starter-code orthe demo code in demoCode/class11_routes/. Write a comment that shows you were able to "dymystify" the two features.
+As a pair, or as individuals, sandbox **or comment** at least two features that you don't (or didn't) understand in one or more of the following items: the ".zip file" starter-code or the demo code in demoCode/class11_routes/. Write a comment that shows you were able to "dymystify" the two features.
 
 ## User Stories: MVP
  1. As a developer, I want an articleController, so that I can group together actions related to the article resource.
@@ -27,7 +27,7 @@ As a pair, or as individuals, sandbox **or comment** at least two features that 
   - Ensure the function is linked to a route, so visitors to `/about` see your info, and not the blog posts.
 
 ## User Stories: Stretch goals
- 1. As an admin, I want the url for my stats page to be part of my SPA, so that it works like the other "pages" of my app.
+ 1. [+1 E.C.] As an admin, I want the url for my stats page to be part of my SPA, so that it works like the other "pages" of my app.
   - Where should the admin content go? You probably need to move a section out of admin.html into index.html.
   - Add a controller and a route so that `/admin` triggers the proper rendering of the statistics section.
 
