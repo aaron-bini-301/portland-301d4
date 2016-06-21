@@ -1,4 +1,4 @@
-# Portfolio Assignment for Class 13 -  Production Deployment
+# Lab 13 Portfolio Assignment - Production Deployment
 
 Ready to share your portfolio with the world? Yes! Your family will be so proud.
 
