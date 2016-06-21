@@ -23,3 +23,13 @@
 ### Resources
 - "REST conversation": https://gist.github.com/brookr/5977550
 - Github API: https://developer.github.com/guides/getting-started/
+
+---
+## Afternoon Lecture, 3 - 4 pm
+Class 13 prep: Production &amp; Deployment
+
+### Slides
+
+### Preview Assignments
+- Class 13
+- Lab 13 blog &amp; portfolio
