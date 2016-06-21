@@ -6,10 +6,11 @@ To get started, you will need to create a controller that includes a call to the
 
 ## Technical Requirements
 - Make sure your code passes ESLint.
+- Use your github token in your AJAX request, and do not include your GitHub username in the GitHub URL.
 - Place all code within the proper layer of MVC abstraction and encapsulation.
-- Use a proxied, authenticated ajax call to GitHub's API to get data from the API.
 - Keep your portfolio responsive as it displays API data.
 - DO NOT publish your GitHub Token to any public repo.
+- [+1 E.C.] Use a proxied, authenticated ajax call to GitHub's API to get data from the API.
 
 ## Submit
 - Please submit in Canvas the items listed in Day 11's portfolio assignment, but the items should be for this lab, of course.
