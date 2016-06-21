@@ -25,6 +25,7 @@ Now that we understand how web applications can handle different URLs, we can wr
 ## Technical Requirements and Grading Rubric
 - Make sure your code passes ESLint.
 - Place all code within the proper layer of MVC abstraction and encapsulation.
+- Use a URL that does not contain your GitHub username. Your request should use your GitHub token.
 - DO NOT publish your GitHub Token to any public repo.
 
 ## Pair Coding
