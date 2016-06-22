@@ -8,9 +8,9 @@ The above tutorial relies on an existing repo that contains files not exactly li
 ## Develop on your laptop
 1. `cd` to any folder inside your workspace for our course repo, then `git pull` to update your clone.
 2. Unzip the starter code in (blog/starter-code.zip)[blog/starter-code.zip]
-3. `cd` to the local workspace of one of **your** repos; create a new folder (e.g., "deploy_demo"), then copy starter-code to deploy_demo/, e.g.,
-   `mkdir deploy_demo`
-   `cd deploy_demo`
+3. `cd` to the local workspace of one of **your** repos; create a new folder (e.g., "deploy_demo"), then copy starter-code to deploy_demo/, e.g.:<br>
+   `mkdir deploy_demo`<br>
+   `cd deploy_demo`<br>
    `cp -r [root of your clone of the class repo]/class13_wed_backend/blog/starter-code .` <-- NOTE the dot (".") at the end
 4. `$ npm install` (this installs modules that the app needs; modules are listed in package.json)
 5. Edit `[yourLocalWorkspaceFolder]/deploy_demo/scripts/repo.js` and `index.html` and change all occurrences of 'brookr' to your GitHub username.
