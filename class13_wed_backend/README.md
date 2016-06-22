@@ -42,15 +42,15 @@ The above tutorial relies on an existing repo that contains files not exactly li
 
 9. Browse to `localhost:3000`
    - Click 'About'. Why do you not see any repos listed?
-   - Change repo.js in the starter code to ask for github data from **your** server (the same machine that served your HTML, CSS, and JS files of your web app to your browser), not GitHub's server.
+   - Change repo.js in the starter code to ask for github data from your **server** (the one that serves HTML, CSS, and JS files to your browser), not GitHub's server. IMPORTANT HINT: How do you specify a resource (a "noun") such that your blog app will work no matter which domain name the server has? It'd be ideal if your blog app works both with node running on your local machine and with Heroku hosting your app.
    - Verify you can see a list of your GitHub repositories on the 'About' page.
 
 ## Deploy to Heroku
 
-10. Initialize a git repo
-   `$ cd ~/heroku_deploy_demo`
-   `$ git init`
-   `$ git add .`
+10. Initialize a git repo<br>
+   `$ cd ~/heroku_deploy_demo`<br>
+   `$ git init`<br>
+   `$ git add .`<br>
 11. `$ git commit -m "initial version"`
 12. `$ heroku login`
 13. `$ heroku create heroku-demo2-ashe` but use your name instead of "ashe"
