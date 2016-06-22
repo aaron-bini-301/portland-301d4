@@ -7,15 +7,15 @@ The above tutorial relies on an existing repo that contains files not exactly li
 
 ## Develop on your laptop
 1. `cd` to any folder inside your workspace for our course repo, then `git pull` to update your clone.
-2. Unzip the starter code in portland-301d3/class-13-production-deployment/pair-assignment/starter-code.zip
-3. `cd` to the workspace of one of **your** repos; create a new folder for this in-class demo (call it "deploy_demo"), then copy the starter-code/ folder to deploy_demo, e.g.,
+2. Unzip the starter code in (blog/starter-code.zip)[blog/starter-code.zip]
+3. `cd` to the local workspace of one of **your** repos; create a new folder (e.g., "deploy_demo"), then copy starter-code to deploy_demo/, e.g.,
    `mkdir deploy_demo`
    `cd deploy_demo`
-   `cp -r portland-301d3/class-13-production-deployment/pair-assignment/ .` <-- Notice the dot (".") at the end.
-4. `$ npm install` (checks/installs dependencies specified in package.json)
-5. Edit `[yourLocalWorkspaceFolder]/heroku_deploy_demo/scripts/repo.js` and `index.html` and change all occurrences of 'brookr' to your GitHub username.
+   `cp -r [root of your clone of the class repo]/class13_wed_backend/blog/starter-code .` <-- NOTE the dot (".") at the end
+4. `$ npm install` (this installs modules that the app needs; modules are listed in package.json)
+5. Edit `[yourLocalWorkspaceFolder]/deploy_demo/scripts/repo.js` and `index.html` and change all occurrences of 'brookr' to your GitHub username.
 
-6. Generate a new GitHub token (or use an existing token) that has **NO SCOPES**.
+6. Generate a new GitHub token (or use an existing one) that has **NO SCOPES**.
 
 7. Copy the value of your GitHub token to an environment variable:
 
@@ -36,11 +36,8 @@ The above tutorial relies on an existing repo that contains files not exactly li
     fi`
   Open a new terminal window to launch a shell where this environment variable is set.
 
-  **Option C**
-  Heroku config: `set GITHUB_TOKEN=your_long_github_token`
-
 8. Run a node server
-   `$ cd ~/heroku_deploy_demo`
+   `$ cd [yourLocalWorkspaceFolder]/deploy_demo`
    `$ node server.js`
 
 9. Browse to `localhost:3000`
