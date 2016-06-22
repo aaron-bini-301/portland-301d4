@@ -7,15 +7,15 @@ The above tutorial relies on an existing repo that contains files not exactly li
 
 ## Develop on your laptop
 1. `cd` to any folder inside your workspace for our course repo, then `git pull` to update your clone.
-2. Unzip the starter code in portland-301d3/class-13-production-deployment/pair-assignment/starter-code.zip
-3. `cd` to the workspace of one of **your** repos; create a new folder for this in-class demo (call it "deploy_demo"), then copy the starter-code/ folder to deploy_demo, e.g.,
-   `mkdir deploy_demo`
-   `cd deploy_demo`
-   `cp -r portland-301d3/class-13-production-deployment/pair-assignment/ .` <-- Notice the dot (".") at the end.
-4. `$ npm install` (checks/installs dependencies specified in package.json)
-5. Edit `[yourLocalWorkspaceFolder]/heroku_deploy_demo/scripts/repo.js` and `index.html` and change all occurrences of 'brookr' to your GitHub username.
+2. Unzip the starter code in (blog/starter-code.zip)[blog/starter-code.zip]
+3. `cd` to the local workspace of one of **your** repos; create a new folder (e.g., "deploy_demo"), then copy starter-code to deploy_demo/, e.g.:<br>
+   `mkdir deploy_demo`<br>
+   `cd deploy_demo`<br>
+   `cp -r [root of your clone of the class repo]/class13_wed_backend/blog/starter-code .` <-- NOTE the dot (".") at the end
+4. `$ npm install` (this installs modules that the app needs; modules are listed in package.json)
+5. Edit `[yourLocalWorkspaceFolder]/deploy_demo/scripts/repo.js` and `index.html` and change all occurrences of 'brookr' to your GitHub username.
 
-6. Generate a new GitHub token (or use an existing token) that has **NO SCOPES**.
+6. Generate a new GitHub token (or use an existing one) that has **NO SCOPES**.
 
 7. Copy the value of your GitHub token to an environment variable:
 
@@ -36,24 +36,21 @@ The above tutorial relies on an existing repo that contains files not exactly li
     fi`
   Open a new terminal window to launch a shell where this environment variable is set.
 
-  **Option C**
-  Heroku config: `set GITHUB_TOKEN=your_long_github_token`
-
 8. Run a node server
-   `$ cd ~/heroku_deploy_demo`
+   `$ cd [yourLocalWorkspaceFolder]/deploy_demo`
    `$ node server.js`
 
 9. Browse to `localhost:3000`
    - Click 'About'. Why do you not see any repos listed?
-   - Change repo.js in the starter code to ask for github data from **your** server (the same machine that served your HTML, CSS, and JS files of your web app to your browser), not GitHub's server.
+   - Change repo.js in the starter code to ask for github data from your **server** (the one that serves HTML, CSS, and JS files to your browser), not GitHub's server. IMPORTANT HINT: How do you specify a resource (a "noun") such that your blog app will work no matter which domain name the server has? It'd be ideal if your blog app works both with node running on your local machine and with Heroku hosting your app.
    - Verify you can see a list of your GitHub repositories on the 'About' page.
 
 ## Deploy to Heroku
 
-10. Initialize a git repo
-   `$ cd ~/heroku_deploy_demo`
-   `$ git init`
-   `$ git add .`
+10. Initialize a git repo<br>
+   `$ cd ~/heroku_deploy_demo`<br>
+   `$ git init`<br>
+   `$ git add .`<br>
 11. `$ git commit -m "initial version"`
 12. `$ heroku login`
 13. `$ heroku create heroku-demo2-ashe` but use your name instead of "ashe"
