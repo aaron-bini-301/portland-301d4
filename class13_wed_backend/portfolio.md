@@ -23,10 +23,9 @@ Use what you practiced in pairs to deploy your portfolio site. The user stories 
 - Make sure your code passes ESLint.
 - DO NOT create your Heroku app with a default name. If you do accidentally, rename it. Or blow it away, and start again.
 - Link to your live site in your portfolio README on GitHub.
-- Write three HOFs:
-  1. An HOF that generates a closure that manipulates the DOM. The closure must accept and use at least one parameter. Your app should use the HOF to generate two closures that are not identical, and should call each closure.
-  1. ...
-  1. ...
+- Write two HOFs:
+  1. An HOF that accepts one parameter ("HOF param") and generates a closure that uses the HOF param. The closure function itself should accept one parameter ("inner param") and manipulate the DOM in a way that depends on the inner param. Your app should use the HOF to generate two closures that are not identical, and should call each of the two closures.
+  1. An HOF that accepts a function as a parameter, and calls that function inside it. Write a function that manipulates the DOM, and pass that function to the HOF.
 
 ## Submit
 Please submit these items:
